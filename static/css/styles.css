@@ -41,7 +41,7 @@ p {
 .btn {
     display: inline-block;
     padding: 12px 20px;
-    background-color: #337ab7;
+    background-color: #0f4675;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -53,5 +53,5 @@ p {
 }
 
 .btn:hover {
-    background-color: #286090;
+    background-color: #19103f;
 }
